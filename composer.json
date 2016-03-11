@@ -1,0 +1,13 @@
+{
+    "name": "pp19dd/smarty_modifier_ago",
+    "description": "Smarty modifier to display timestamps in relative format {$pubdate|ago}.",
+    "license": "CC0 1.0 Universal",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "files": [
+            "function_smarty_modifier_ago.php"
+        ]
+    }
+}
